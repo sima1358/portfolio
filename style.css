@@ -632,21 +632,6 @@ table tr:hover > td {
   padding: 10px;
 }
 
-button::before {
-  content: "";
-  border-radius: 20px;
-  min-width: calc(70px + 12px);
-  min-height: calc(40px + 12px);
-  border: 1px solid #00ffcb;
-  box-shadow: 0 0 60px rgba(0, 255, 203, 0.64);
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  opacity: 0;
-  transition: 0.3s ease-in 0s;
-}
-
 .button:hover {
   color: #6262df;
 }
