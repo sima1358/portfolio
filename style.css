@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
 
 * {
@@ -140,7 +139,6 @@ main {
   justify-content: center;
   align-items: center;
   z-index: 0;
-  left: -23rem;
 }
 
 .letter-r {
@@ -235,7 +233,7 @@ main {
   justify-content: center;
   align-items: center;
   z-index: 0;
-  left: -21rem;
+  left: 1rem;
 }
 
 .letter-p {
@@ -330,7 +328,7 @@ main {
   justify-content: center;
   align-items: center;
   z-index: 0;
-  left: -19rem;
+  left: 2rem;
 }
 
 .letter-c {
